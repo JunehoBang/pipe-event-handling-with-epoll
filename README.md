@@ -6,7 +6,7 @@ In this code, two different threads, main and worker, communicate each other usi
 While the main sends a struct data element using pipe, the worker receives it.
 The reception operation is triggered by the epoll's signal notification. 
 
-Please note that this code is for experiment. The boolean channel was applied to 
+Please note that this code is for experiment. The boolean channel was applied to observe their properties.
 
 
 In the advanced virtua
