@@ -8,5 +8,3 @@ The reception operation is triggered by the epoll's signal notification.
 
 Please note that this code is for experiment. The boolean channel was applied to observe their properties.
 
-
-In the advanced virtua
